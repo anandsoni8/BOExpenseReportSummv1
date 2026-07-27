@@ -1,0 +1,81 @@
+2026-07-27 16:56:13,167 - [INFO] - TotalAI_Backend - Starting Doc Processing & PII Guardrails
+2026-07-27 16:56:13,360 - [INFO] - docling.datamodel.document - detected formats: [<InputFormat.PDF: 'pdf'>]
+2026-07-27 16:56:13,485 - [INFO] - docling.document_converter - Going to convert document batch...
+2026-07-27 16:56:13,493 - [INFO] - docling.document_converter - Initializing pipeline for StandardPdfPipeline with options hash 232dd41d6716a8665bf46e5b99b32743
+2026-07-27 16:56:13,565 - [INFO] - docling.models.factories.base_factory - Loading plugin 'docling_defaults'
+2026-07-27 16:56:13,581 - [INFO] - docling.models.factories - Registered picture descriptions: ['picture_description_vlm_engine', 'vlm', 'api']
+2026-07-27 16:56:13,664 - [INFO] - docling.models.factories.base_factory - Loading plugin 'docling_defaults'
+2026-07-27 16:56:13,714 - [INFO] - docling.models.factories - Registered ocr engines: ['auto', 'easyocr', 'kserve_v2_ocr', 'nemotron-ocr', 'ocrmac', 'rapidocr', 'tesserocr', 'tesseract']
+2026-07-27 16:56:14,483 - [INFO] - docling.utils.accelerator_utils - Accelerator device: 'cpu'
+2026-07-27 16:56:15,397 - [INFO] - docling.models.stages.ocr.auto_ocr_model - Auto OCR model selected rapidocr with onnxruntime.
+2026-07-27 16:56:15,479 - [INFO] - docling.models.factories.base_factory - Loading plugin 'docling_defaults'
+2026-07-27 16:56:15,481 - [INFO] - docling.models.factories - Registered layout engines: ['layout_object_detection', 'docling_layout_default', 'docling_experimental_table_crops_layout']
+2026-07-27 16:56:15,497 - [INFO] - docling.utils.accelerator_utils - Accelerator device: 'cpu'
+2026-07-27 16:56:16,230 - [ERROR] - TotalAI_Backend - Docling failed, using fallback. Error: Got: ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)
+An error happened while trying to locate the files on the Hub, and we cannot find the appropriate snapshot folder for the specified revision on the local disk. Please check your internet connection and try again.
+2026-07-27 16:56:16,281 - [INFO] - TotalAI_Backend - Executing Agentic JSON Extraction
+2026-07-27 16:56:16,730 - [INFO] - httpx - HTTP Request: POST https://genailab.tcs.in/chat/completions "HTTP/1.1 410 Gone"
+2026-07-27 16:56:57,549 - [INFO] - TotalAI_Backend - Starting Doc Processing & PII Guardrails
+2026-07-27 16:56:57,731 - [INFO] - docling.datamodel.document - detected formats: [<InputFormat.PDF: 'pdf'>]
+2026-07-27 16:56:57,732 - [INFO] - docling.document_converter - Going to convert document batch...
+2026-07-27 16:56:57,732 - [INFO] - docling.document_converter - Initializing pipeline for StandardPdfPipeline with options hash 232dd41d6716a8665bf46e5b99b32743
+2026-07-27 16:56:57,732 - [INFO] - docling.utils.accelerator_utils - Accelerator device: 'cpu'
+2026-07-27 16:56:58,675 - [INFO] - docling.models.stages.ocr.auto_ocr_model - Auto OCR model selected rapidocr with onnxruntime.
+2026-07-27 16:56:58,681 - [INFO] - docling.utils.accelerator_utils - Accelerator device: 'cpu'
+2026-07-27 16:56:58,865 - [ERROR] - TotalAI_Backend - Docling failed, using fallback. Error: Got: ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)
+An error happened while trying to locate the files on the Hub, and we cannot find the appropriate snapshot folder for the specified revision on the local disk. Please check your internet connection and try again.
+2026-07-27 16:56:58,900 - [INFO] - TotalAI_Backend - Executing Agentic JSON Extraction
+2026-07-27 16:56:59,252 - [INFO] - httpx - HTTP Request: POST https://genailab.tcs.in/chat/completions "HTTP/1.1 410 Gone"
+2026-07-27 16:57:00,561 - [INFO] - TotalAI_Backend - Starting Doc Processing & PII Guardrails
+2026-07-27 16:57:00,734 - [INFO] - docling.datamodel.document - detected formats: [<InputFormat.PDF: 'pdf'>]
+2026-07-27 16:57:00,739 - [INFO] - docling.document_converter - Going to convert document batch...
+2026-07-27 16:57:00,740 - [INFO] - docling.document_converter - Initializing pipeline for StandardPdfPipeline with options hash 232dd41d6716a8665bf46e5b99b32743
+2026-07-27 16:57:00,740 - [INFO] - docling.utils.accelerator_utils - Accelerator device: 'cpu'
+2026-07-27 16:57:01,607 - [INFO] - docling.models.stages.ocr.auto_ocr_model - Auto OCR model selected rapidocr with onnxruntime.
+2026-07-27 16:57:01,608 - [INFO] - docling.utils.accelerator_utils - Accelerator device: 'cpu'
+2026-07-27 16:57:01,658 - [ERROR] - TotalAI_Backend - Docling failed, using fallback. Error: Got: ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)
+An error happened while trying to locate the files on the Hub, and we cannot find the appropriate snapshot folder for the specified revision on the local disk. Please check your internet connection and try again.
+2026-07-27 16:57:01,709 - [INFO] - TotalAI_Backend - Executing Agentic JSON Extraction
+2026-07-27 16:57:01,924 - [INFO] - httpx - HTTP Request: POST https://genailab.tcs.in/chat/completions "HTTP/1.1 410 Gone"
+2026-07-27 16:59:54,407 - [INFO] - TotalAI_Backend - Starting Doc Processing & PII Guardrails
+2026-07-27 16:59:54,577 - [INFO] - docling.datamodel.document - detected formats: [<InputFormat.PDF: 'pdf'>]
+2026-07-27 16:59:54,676 - [INFO] - docling.document_converter - Going to convert document batch...
+2026-07-27 16:59:54,676 - [INFO] - docling.document_converter - Initializing pipeline for StandardPdfPipeline with options hash 232dd41d6716a8665bf46e5b99b32743
+2026-07-27 16:59:54,765 - [INFO] - docling.models.factories.base_factory - Loading plugin 'docling_defaults'
+2026-07-27 16:59:54,771 - [INFO] - docling.models.factories - Registered picture descriptions: ['picture_description_vlm_engine', 'vlm', 'api']
+2026-07-27 16:59:54,835 - [INFO] - docling.models.factories.base_factory - Loading plugin 'docling_defaults'
+2026-07-27 16:59:54,883 - [INFO] - docling.models.factories - Registered ocr engines: ['auto', 'easyocr', 'kserve_v2_ocr', 'nemotron-ocr', 'ocrmac', 'rapidocr', 'tesserocr', 'tesseract']
+2026-07-27 16:59:55,528 - [INFO] - docling.utils.accelerator_utils - Accelerator device: 'cpu'
+2026-07-27 16:59:56,394 - [INFO] - docling.models.stages.ocr.auto_ocr_model - Auto OCR model selected rapidocr with onnxruntime.
+2026-07-27 16:59:56,479 - [INFO] - docling.models.factories.base_factory - Loading plugin 'docling_defaults'
+2026-07-27 16:59:56,493 - [INFO] - docling.models.factories - Registered layout engines: ['layout_object_detection', 'docling_layout_default', 'docling_experimental_table_crops_layout']
+2026-07-27 16:59:56,494 - [INFO] - docling.utils.accelerator_utils - Accelerator device: 'cpu'
+2026-07-27 16:59:57,229 - [ERROR] - TotalAI_Backend - Docling failed, using fallback. Error: Got: ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)
+An error happened while trying to locate the files on the Hub, and we cannot find the appropriate snapshot folder for the specified revision on the local disk. Please check your internet connection and try again.
+2026-07-27 16:59:57,277 - [INFO] - TotalAI_Backend - Executing Agentic JSON Extraction
+2026-07-27 16:59:57,510 - [INFO] - httpx - HTTP Request: POST https://genailab.tcs.in/chat/completions "HTTP/1.1 400 Bad Request"
+2026-07-27 17:03:44,010 - [INFO] - TotalAI_Backend - Starting Doc Processing & PII Guardrails
+2026-07-27 17:03:44,167 - [INFO] - docling.datamodel.document - detected formats: [<InputFormat.PDF: 'pdf'>]
+2026-07-27 17:03:44,280 - [INFO] - docling.document_converter - Going to convert document batch...
+2026-07-27 17:03:44,280 - [INFO] - docling.document_converter - Initializing pipeline for StandardPdfPipeline with options hash 232dd41d6716a8665bf46e5b99b32743
+2026-07-27 17:03:44,355 - [INFO] - docling.models.factories.base_factory - Loading plugin 'docling_defaults'
+2026-07-27 17:03:44,355 - [INFO] - docling.models.factories - Registered picture descriptions: ['picture_description_vlm_engine', 'vlm', 'api']
+2026-07-27 17:03:44,434 - [INFO] - docling.models.factories.base_factory - Loading plugin 'docling_defaults'
+2026-07-27 17:03:44,476 - [INFO] - docling.models.factories - Registered ocr engines: ['auto', 'easyocr', 'kserve_v2_ocr', 'nemotron-ocr', 'ocrmac', 'rapidocr', 'tesserocr', 'tesseract']
+2026-07-27 17:03:45,111 - [INFO] - docling.utils.accelerator_utils - Accelerator device: 'cpu'
+2026-07-27 17:03:45,993 - [INFO] - docling.models.stages.ocr.auto_ocr_model - Auto OCR model selected rapidocr with onnxruntime.
+2026-07-27 17:03:46,060 - [INFO] - docling.models.factories.base_factory - Loading plugin 'docling_defaults'
+2026-07-27 17:03:46,079 - [INFO] - docling.models.factories - Registered layout engines: ['layout_object_detection', 'docling_layout_default', 'docling_experimental_table_crops_layout']
+2026-07-27 17:03:46,079 - [INFO] - docling.utils.accelerator_utils - Accelerator device: 'cpu'
+2026-07-27 17:03:46,809 - [ERROR] - TotalAI_Backend - Docling failed, using fallback. Error: Got: ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)
+An error happened while trying to locate the files on the Hub, and we cannot find the appropriate snapshot folder for the specified revision on the local disk. Please check your internet connection and try again.
+2026-07-27 17:03:46,859 - [INFO] - TotalAI_Backend - Executing Agentic JSON Extraction
+2026-07-27 17:03:48,927 - [INFO] - httpx - HTTP Request: POST https://genailab.tcs.in/chat/completions "HTTP/1.1 200 OK"
+2026-07-27 17:04:16,175 - [INFO] - TotalAI_Backend - Building RAG Vector Store
+2026-07-27 17:04:16,821 - [INFO] - httpx - HTTP Request: POST https://genailab.tcs.in/embeddings "HTTP/1.1 200 OK"
+2026-07-27 17:04:27,212 - [INFO] - TotalAI_Backend - Executing RAG Audit
+2026-07-27 17:04:27,752 - [INFO] - httpx - HTTP Request: POST https://genailab.tcs.in/embeddings "HTTP/1.1 200 OK"
+2026-07-27 17:04:29,742 - [INFO] - httpx - HTTP Request: POST https://genailab.tcs.in/chat/completions "HTTP/1.1 200 OK"
+2026-07-27 17:04:29,754 - [INFO] - TotalAI_Backend - Executing Hallucination Guardrail Check
+2026-07-27 17:04:30,688 - [INFO] - httpx - HTTP Request: POST https://genailab.tcs.in/chat/completions "HTTP/1.1 200 OK"
+2026-07-27 17:05:10,316 - [INFO] - httpx - HTTP Request: POST https://genailab.tcs.in/chat/completions "HTTP/1.1 200 OK"

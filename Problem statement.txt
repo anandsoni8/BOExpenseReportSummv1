@@ -1,0 +1,14 @@
+Back Office Expense Report Summarizer
+
+PROBLEM STATEMENT
+Back office teams process numerous expense reports with lengthy justifications and receipts. Reviewing these manually for policy compliance and summarization is time-consuming and error-prone, leading to processing delays and potential compliance risks. Existing systems provide limited automation in extracting key information or generating concise summaries for approvers. Automating expense report summarization would streamline approvals, reduce errors, and enhance operational efficiency.
+
+Data Considerations:
+Data includes textual expense reports, receipt transcriptions, and policy documents in text or PDF. Volume is moderate for demonstration. Preprocessing includes text extraction, formatting normalization, and OCR if needed. Privacy considerations require anonymization of sensitive financial data. Synthetic reports can be generated for development. Consider using synthetic or anonymized data where appropriate. Ensure data quality and relevance to the problem context. Consider using synthetic or anonymized data where appropriate. Ensure data quality and relevance to the problem context.
+
+Consider using synthetic or anonymized data where appropriate. Ensure data quality and relevance to the problem context.
+
+SOLUTION EXPECTATIONS
+A prototype GenAI agent that accepts expense report inputs and outputs concise, policy-focused summaries flagging anomalies. Features include key data extraction, compliance checks, and a simple web UI. Success measured by extraction accuracy and processing time reduction. The demo will showcase summarization of sample reports to illustrate efficiency gains. Feel free to explore creative solutions that align with the problem context and objectives. Feel free to explore creative solutions that align with the problem context and objectives.
+
+Feel free to explore creative solutions that align with the problem context and objectives.

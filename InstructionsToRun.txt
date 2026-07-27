@@ -1,0 +1,11 @@
+Make Shorter name of Folder
+
+python -m venv venv
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser     #to unblock some exceptions 
+venv\Scripts\activate
+python -m pip install --upgrade pip
+pip install -r requirements.txt
+pip list          #in case you want to check
+streamlit run app.py
+
+Ctrl+C to come out of terminal

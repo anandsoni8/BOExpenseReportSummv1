@@ -1,0 +1,17 @@
+streamlit
+langchain
+langchain-openai
+langchain-community
+langchain-chroma
+langchain-text-splitters
+langgraph
+langsmith
+pydantic
+chromadb
+pypdf
+tiktoken
+httpx
+requests
+urllib3
+docling
+rank_bm25

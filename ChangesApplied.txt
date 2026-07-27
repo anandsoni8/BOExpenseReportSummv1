@@ -1,0 +1,9 @@
+Architecture: Linear function calls ➔ LangGraph (Agentic State Machine workflow).
+
+UI Theme: Pink/Purple ➔ Light Grey & Electric Blue (Cleaner, enterprise-grade feel).
+
+Extraction: Basic PyPDF ➔ Docling (Multi-modal OCR for complex layouts with a PyPDF fallback).
+
+Guardrails: Dual-LLM Judge ➔ Dedicated Hallucination Guardrail node integrated directly into the graph.
+
+Infrastructure: Unlogged & Deprecated Model ➔ Enterprise Logging (tracked to a file) and a highly stable model (gpt-4o-mini).
