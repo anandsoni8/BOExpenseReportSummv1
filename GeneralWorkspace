@@ -1,29 +1,18 @@
 1. Use Agentic Al with LangGraph for workflow orchestration, tool calling, and multi-step reasoning.
-
 2. Define multi-agent personas like planner, retriever, validator, summarizer, and guardrail agent.
-
 3. Implement Advanced/Hybrid RAG with semantic chunking, metadata filtering, keyword + vector search, and re-ranking.
-
 4. Support multimodal inputs using OCR/document intelligence tools like IBM Docling, with document preview in UI.
-
 5. Add memory management using summary memory, contextual memory, or Graph RAG for conversation continuity.
-
-03 PM
-
-+
-
 6. Apply Responsible Al guardrails at input/output layers with hallucination checks, PIl masking, and Pydantic validation.
-
 7. Build an interactive Ul using React + FastAPI/Flask; if using Streamlit, make it dashboard-driven, not just chatbot-based.
 8. Follow modular architecture by separating APIs, agents, RAG pipeline, tools, services, configs, and Ul layers.
-
 9. Use MCP if required to expose tools/services asynchronously for scalable and flexible integration.
-
 10. Add observability and evaluation using Lang Trace, Langfuse, RAGAS, and DeepEval for tracing, debugging, and quality measurement.
-
-T
-
 11. Optimize for enterprise readiness with RBAC, security, HITL, caching, token optimization, scalability, audio-to-text/text-to-audio accessibility, and measurable business impact.
+
+
+
+
 
 Title:
 Supplier Performance Metrics Summarization Tool
