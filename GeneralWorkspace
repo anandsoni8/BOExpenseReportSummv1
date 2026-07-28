@@ -1,0 +1,27 @@
+1. Agentic Al Architecture - Use LangGraph for multi-step reasoning, workflow orchestration, tool calling, and intelligent agent collaboration.
+
+2. Advanced/Hybrid RAG - Implement semantic chunking, metadata filtering, keyword + vector search, and re-ranking to improve retrieval accuracy.
+
+3. Multimodal Al - Support documents, PDFs, and images using OCR solutions such as IBM Docling for document understanding.
+
+4. Memory Management - Leverage summary memory, contextual memory, and Graph RAG to maintain conversation continuity and context.
+
+
+5. Responsible Al & Guardrails -Implement hallucination detection, PII masking using Regex, Pydantic validation, and safety guardrails.
+
+6. Modular Architecture - Build a clean React + FastAPI solution with separate layers for APIs, agents, RAG, tools, and services.
+
+7. MCP Architecture - Expose tools and services through Model Context Protocol with asynchronous and scalable design.
+
+8. Observability & Monitoring - Use Lang Trace and Langfuse for tracing, logging, debugging, workflow monitoring, caching, and rate limiting.
+
+9. Security & Access Control - Enable RBAC-based multi-role orchestration, metadata tracking, secure access, and enterprise governance.
+
+::
+
+10. Evaluation Framework - Measure performance using RAGAS and DeepEval for answer quality, retrieval accuracy, and robustness.
+
+
+11. Scalability & Optimization - Use model routing, caching, and efficient orchestration to balance latency, accuracy, and cost.
+
+12. Enterprise Readiness - Focus on security, scalability, HITL, knowledge fabric integration, synthetic data augmentation, and measurable business impact.
