@@ -7,5 +7,6 @@ python -m pip install --upgrade pip
 pip install -r requirements.txt
 pip list          #in case you want to check
 streamlit run app.py
+streamlit run app.py --server.address 0.0.0.0 --server.port 8502 #in different server
 
 Ctrl+C to come out of terminal
