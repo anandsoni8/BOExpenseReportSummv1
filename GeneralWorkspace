@@ -25,3 +25,23 @@
 11. Scalability & Optimization - Use model routing, caching, and efficient orchestration to balance latency, accuracy, and cost.
 
 12. Enterprise Readiness - Focus on security, scalability, HITL, knowledge fabric integration, synthetic data augmentation, and measurable business impact.
+
+Title:
+
+Supplier Performance Metrics Summarization Tool
+
+Problem Statement:
+
+Procurement teams require timely, accurate insights into supplier performance to manage contracts, negotiate effectively, and mitigate risks. Manual analysis of procurement, quality, and logistics data is slow and often incomplete, hindering real-time response to performance issues. Managing multiple suppliers across regions requires integrated, automated performance summaries to drive supply chain excellence and compliance.
+
+Data Requirements (Guidance):
+
+Domain-specific datasets including purchase orders, quality reports, delivery logs, and supplier contracts. Data must be comprehensive and timely, with synthetic data to simulate performance deviations. Compliance with procurement data governance required.
+
+(Feel free to generate synthetic data as well from the provided access)
+
+Expected Output/ Demonstration of Solution:
+
+A production-ready Al tool delivering concise, actionable supplier performance summaries integrated into procurement workflows. Includes comprehensive documentation and testing. Business benefits include improved supplier management and risk mitigation.
+
+Be creative to go beyond as you solve the above needs
